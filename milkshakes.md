@@ -1,3 +1,3 @@
-chocolate 
-strawberry
-bubble gum
+chocolate-best 
+strawberry-red
+bubble gum-tasty
